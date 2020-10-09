@@ -120,6 +120,11 @@ align-items:center;
   height: 250px;
   object-fit: cover;
 }
+.roll {
+      width: 366px;
+      height: 223px;
+      margin-top: 26px;
+}
 .card-text {
   padding: 20px 23px 35px 23px;
 }
